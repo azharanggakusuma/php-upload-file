@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------------------------------
-                                    <b>TUGAS PEMROGRAMAN WEB - P14 PHP File Handler
-                                      S1-Teknik Informatika STMIK IKMI Cirebon</b>
+                                    TUGAS PEMROGRAMAN WEB - P14 PHP File Handler
+                                      S1-Teknik Informatika STMIK IKMI Cirebon
 -------------------------------------------------------------------------------------------------------------------------------
 
 Nama           :  Azharangga Kusuma <br>
@@ -18,5 +18,5 @@ Youtube   --> <a href="https://youtube.com/channel/UCnKjszzhKbvQ9zqbo9kKjpg">Kun
 Linkedin  --> <a href="https://www.linkedin.com/in/azharangga-kusuma-9a30911a0/">Kunjungi</a> <br>
 
 -------------------------------------------------------------------------------------------------------------------------------
-                                            <b>2022 - Azharangga Kusuma</b>
+                                            2022 - Azharangga Kusuma
 -------------------------------------------------------------------------------------------------------------------------------
